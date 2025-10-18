@@ -2,7 +2,7 @@
 
 ![Es en la crisis donde nace la inventiva, los descubrimientos y las grandes estrategias—Albert Einstein.](docs/resistire.jpg)
 
-This work builds upon [An Approximate Solution to the Minimum Vertex Cover Problem: The Hvala Algorithm](https://www.preprints.org/manuscript/202506.0875/v5).
+This work builds upon [An Approximate Solution to the Minimum Vertex Cover Problem: The Hvala Algorithm](https://www.preprints.org/manuscript/202506.0875/v6).
 
 ## The Resistire Experiment: Hvala's Experimental Evaluation on Real-World Large Graphs
 
